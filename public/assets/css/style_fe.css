@@ -1,0 +1,9 @@
+.store-card {
+  position: absolute;
+  width: 102%;
+  top: 0;
+  z-index: 99;
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+/*# sourceMappingURL=style_fe.css.map */
